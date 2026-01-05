@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Peter Hansen";RSVP=TRUE:mailto:peterrhodhansen@gmail.com
+ATTENDEE;CN="Signe Fuglkjær";RSVP=TRUE:mailto:sf@rygklinik.dk
+ATTENDEE;CN="Allan Riis";RSVP=TRUE:mailto:alr@ucn.dk
+ATTENDEE;CN=jlt@dcm.aau.dk;RSVP=TRUE:mailto:jlt@dcm.aau.dk
+ATTENDEE;CN=ac@anne-charlotte.dk;RSVP=TRUE:mailto:ac@anne-charlotte.dk
+ATTENDEE;CN="Mikkel Brunsgaard Konner";RSVP=TRUE:mailto:Mikkel.Brunsgaard.K
+	onner@rsyd.dk
+ATTENDEE;CN=mats.peter.johansson@regionh.dk;RSVP=TRUE:mailto:mats.peter.joh
+	ansson@regionh.dk
+CLASS:PUBLIC
+CREATED:20260105T080348Z
+DESCRIPTION:_______________________________________________________________
+	_________________\n\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsM
+	eeting?omkt=en-US>  \n\nJoin the meeting now <https://teams.microsoft.com/
+	l/meetup-join/19%3ameeting_NmI2NGYzZmItM2RhMy00MzI0LTlmMzYtMjcxMTY3YWE2NjR
+	i%40thread.v2/0?context=%7b%22Tid%22%3a%22966cd668-bb58-453c-811a-c2697665
+	6285%22%2c%22Oid%22%3a%22606af3ab-82a2-4c80-9f63-46dd39edb149%22%7d>  \n\n
+	Meeting ID: 312 401 473 903 75 \n\nPasscode: cY2RQ225 \n\n________________
+	________________\n\nDial in by phone \n\n+45 32 72 67 07\,\,778220288# <te
+	l:+4532726707\,\,778220288>  Denmark\, All locations \n\nFind a local numb
+	er <https://dialin.teams.microsoft.com/5d7a12be-018b-4ce7-b9af-41bb0d299ee
+	a?id=778220288>  \n\nPhone conference ID: 778 220 288# \n\nJoin on a video
+	 conferencing device \n\nTenant key: rsyd@m.webex.com <mailto:rsyd@m.webex
+	.com>  \n\nVideo ID: 126 928 368 2 \n\nMore info <https://www.webex.com/ms
+	teams?confid=1269283682&tenantkey=rsyd&domain=m.webex.com>  \n\nFor organi
+	zers: Meeting options <https://teams.microsoft.com/meetingOptions/?organiz
+	erId=606af3ab-82a2-4c80-9f63-46dd39edb149&tenantId=966cd668-bb58-453c-811a
+	-c26976656285&threadId=19_meeting_NmI2NGYzZmItM2RhMy00MzI0LTlmMzYtMjcxMTY3
+	YWE2NjRi@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https
+	://dialin.teams.microsoft.com/usp/pstnconferencing>  \n\n_________________
+	_______________________________________________________________\n\n \n\n
+DTEND;TZID="Romance Standard Time":20260203T210000
+DTSTAMP:20260105T072925Z
+DTSTART;TZID="Romance Standard Time":20260203T200000
+LAST-MODIFIED:20260105T080348Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Casper Nim":mailto:Casper.Nim@rsyd.dk
+PRIORITY:5
+SEQUENCE:3
+SUMMARY;LANGUAGE=da:Online Café: BØRN OG UNGE Hvad gør vi for deres sund
+	hed i ryggen?
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000305B65AC6F6ADC01000000000000000
+	010000000DC0BE083AC4C1449AA8C04636FE9174D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	
+	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{f
+	ont-family:Aptos\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 1
+	1 5 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\
+	, div.MsoNormal\n	{margin:0cm\;\n	font-size:12.0pt\;\n	font-family:"Calibr
+	i"\,sans-serif\;\n	mso-ligatures:standardcontextual\;}\na:link\, span.MsoH
+	yperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:un
+	derline\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\nspan.me-email-text\n
+		{mso-style-name:me-email-text\;}\nspan.me-email-text-secondary\n	{mso-sty
+	le-name:me-email-text-secondary\;}\nspan.me-email-headline\n	{mso-style-na
+	me:me-email-headline\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	
+	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\n	{size:612
+	.0pt 792.0pt\;\n	margin:3.0cm 2.0cm 3.0cm 2.0cm\;}\ndiv.WordSection1\n	{pa
+	ge:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults 
+	v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>
+	\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:sha
+	pelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#
+	954F72" style='word-wrap:break-word'><div class=WordSection1><div><div sty
+	le='margin-bottom:18.0pt\;overflow:hidden'><p class=MsoNormal><span style=
+	'font-family:"Segoe UI"\,sans-serif\;color:#242424'>______________________
+	__________________________________________________________</span><span sty
+	le='font-family:"Segoe UI"\,sans-serif\;color:#242424\;mso-ligatures:none'
+	><o:p></o:p></span></p></div><div style='margin-bottom:9.0pt'><p class=Mso
+	Normal><span class=me-email-text><b><span style='font-size:18.0pt\;font-fa
+	mily:"Segoe UI"\,sans-serif\;color:#242424'>Microsoft Teams</span></b></sp
+	an><span style='font-family:"Segoe UI"\,sans-serif\;color:#242424'> <a hre
+	f="https://aka.ms/JoinTeamsMeeting?omkt=en-US"><span style='font-size:10.5
+	pt\;color:#5B5FC7'>Need help?</span></a> <o:p></o:p></span></p></div><div 
+	style='margin-bottom:4.5pt'><p class=MsoNormal><span style='font-family:"S
+	egoe UI"\,sans-serif\;color:#242424'><a href="https://teams.microsoft.com/
+	l/meetup-join/19%3ameeting_NmI2NGYzZmItM2RhMy00MzI0LTlmMzYtMjcxMTY3YWE2NjR
+	i%40thread.v2/0?context=%7b%22Tid%22%3a%22966cd668-bb58-453c-811a-c2697665
+	6285%22%2c%22Oid%22%3a%22606af3ab-82a2-4c80-9f63-46dd39edb149%22%7d" targe
+	t="_blank" title="Meeting join link"><b><span style='font-size:15.0pt\;col
+	or:#5B5FC7'>Join the meeting now</span></b></a> <o:p></o:p></span></p></di
+	v><div style='margin-bottom:4.5pt'><p class=MsoNormal><span class=me-email
+	-text-secondary><span style='font-size:10.5pt\;font-family:"Segoe UI"\,san
+	s-serif\;color:#616161'>Meeting ID: </span></span><span class=me-email-tex
+	t><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color
+	:#242424'>312 401 473 903 75</span></span><span style='font-family:"Segoe 
+	UI"\,sans-serif\;color:#242424'> <o:p></o:p></span></p></div><div style='m
+	argin-bottom:24.0pt'><p class=MsoNormal><span class=me-email-text-secondar
+	y><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color
+	:#616161'>Passcode: </span></span><span class=me-email-text><span style='f
+	ont-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#242424'>cY2RQ2
+	25</span></span><span style='font-family:"Segoe UI"\,sans-serif\;color:#24
+	2424'> <o:p></o:p></span></p></div><div style='margin-bottom:9.0pt'><div c
+	lass=MsoNormal align=center style='text-align:center'><span style='font-fa
+	mily:"Segoe UI"\,sans-serif\;color:#242424'><hr size=1 width="100%" align=
+	center></span></div></div><div><div style='margin-bottom:4.5pt'><p class=M
+	soNormal><span class=me-email-text><b><span style='font-family:"Segoe UI"\
+	,sans-serif\;color:#242424'>Dial in by phone</span></b></span><span style=
+	'font-family:"Segoe UI"\,sans-serif\;color:#242424'> <o:p></o:p></span></p
+	></div><div style='margin-bottom:4.5pt'><p class=MsoNormal><span style='fo
+	nt-family:"Segoe UI"\,sans-serif\;color:#242424'><a href="tel:+4532726707\
+	,\,778220288"><span style='font-size:10.5pt\;color:#5B5FC7'>+45 32 72 67 0
+	7\,\,778220288#</span></a> </span><span class=me-email-text><span style='f
+	ont-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#616161'>Denmar
+	k\, All locations</span></span><span style='font-family:"Segoe UI"\,sans-s
+	erif\;color:#242424'> <o:p></o:p></span></p></div><div style='margin-botto
+	m:4.5pt'><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-seri
+	f\;color:#242424'><a href="https://dialin.teams.microsoft.com/5d7a12be-018
+	b-4ce7-b9af-41bb0d299eea?id=778220288"><span style='font-size:10.5pt\;colo
+	r:#5B5FC7'>Find a local number</span></a> <o:p></o:p></span></p></div></di
+	v><div style='margin-bottom:18.0pt'><p class=MsoNormal><span class=me-emai
+	l-text-secondary><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sa
+	ns-serif\;color:#616161'>Phone conference ID: </span></span><span class=me
+	-email-text><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-se
+	rif\;color:#242424'>778 220 288#</span></span><span style='font-family:"Se
+	goe UI"\,sans-serif\;color:#242424'> <o:p></o:p></span></p></div><div styl
+	e='margin-bottom:4.5pt'><p class=MsoNormal><span class=me-email-headline><
+	b><span style='font-family:"Segoe UI"\,sans-serif\;color:#242424'>Join on 
+	a video conferencing device</span></b></span><span style='font-family:"Seg
+	oe UI"\,sans-serif\;color:#242424'> <o:p></o:p></span></p></div><div style
+	='margin-bottom:4.5pt'><p class=MsoNormal><span class=me-email-text><span 
+	style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#616161
+	'>Tenant key: </span></span><span class=me-email-text><span style='font-si
+	ze:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#242424'><a href="mai
+	lto:rsyd@m.webex.com">rsyd@m.webex.com</a></span></span><span style='font-
+	family:"Segoe UI"\,sans-serif\;color:#242424'> <o:p></o:p></span></p></div
+	><div style='margin-bottom:4.5pt'><p class=MsoNormal><span class=me-email-
+	text-secondary><span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans
+	-serif\;color:#616161'>Video ID: </span></span><span class=me-email-text><
+	span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#2
+	42424'>126 928 368 2</span></span><span style='font-family:"Segoe UI"\,san
+	s-serif\;color:#242424'> <o:p></o:p></span></p></div><div style='margin-bo
+	ttom:18.0pt'><p class=MsoNormal><span style='font-family:"Segoe UI"\,sans-
+	serif\;color:#242424'><a href="https://www.webex.com/msteams?confid=126928
+	3682&amp\;tenantkey=rsyd&amp\;domain=m.webex.com" target="_blank"><span st
+	yle='font-size:10.5pt\;color:#5B5FC7'>More info</span></a> <o:p></o:p></sp
+	an></p></div><div><p class=MsoNormal><span class=me-email-text-secondary><
+	span style='font-size:10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#6
+	16161'>For organizers: </span></span><span style='font-family:"Segoe UI"\,
+	sans-serif\;color:#242424'><a href="https://teams.microsoft.com/meetingOpt
+	ions/?organizerId=606af3ab-82a2-4c80-9f63-46dd39edb149&amp\;tenantId=966cd
+	668-bb58-453c-811a-c26976656285&amp\;threadId=19_meeting_NmI2NGYzZmItM2RhM
+	y00MzI0LTlmMzYtMjcxMTY3YWE2NjRi@thread.v2&amp\;messageId=0&amp\;language=e
+	n-US" target="_blank"><span style='font-size:10.5pt\;color:#5B5FC7'>Meetin
+	g options</span></a> </span><span style='font-family:"Segoe UI"\,sans-seri
+	f\;color:#616161'>|</span><span style='font-family:"Segoe UI"\,sans-serif\
+	;color:#242424'> <a href="https://dialin.teams.microsoft.com/usp/pstnconfe
+	rencing" target="_blank"><span style='font-size:10.5pt\;color:#5B5FC7'>Res
+	et dial-in PIN</span></a> <o:p></o:p></span></p></div><div style='margin-b
+	ottom:18.0pt\;overflow:hidden'><p class=MsoNormal><span style='font-family
+	:"Segoe UI"\,sans-serif\;color:#242424'>__________________________________
+	______________________________________________<o:p></o:p></span></p></div>
+	</div><p class=MsoNormal><span lang=DA style='font-size:11.0pt'><o:p>&nbsp
+	\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:3
+X-MS-OLK-APPTSEQTIME:20260105T072925Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
